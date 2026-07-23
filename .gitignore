@@ -1,0 +1,9 @@
+extractor/
+__pycache__/
+*.pyc
+uploads/*
+extracted_json/*
+logs/*
+
+.idea/
+.vscode/

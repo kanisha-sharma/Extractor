@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pymupdf
+paddleocr
+sqlalchemy
+psycopg2-binary
+python-multipart
+opencv-python
+numpy
+pandas
+Pillow
+easyocr
+pdfplumber
+python-dotenv
